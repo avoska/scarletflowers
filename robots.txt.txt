@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /app
+Disallow: /cache
+Disallow: /config
+Disallow: /engine
+Disallow: /files
+Disallow: /flash
+Disallow: /fonts
+Disallow: /lib
+Disallow: /scripts
+Disallow: /styles
+Disallow: /templates
+Crawl-delay: 5.0
+
+HOST: scarletflowers.ru
